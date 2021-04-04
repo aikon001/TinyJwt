@@ -24,7 +24,7 @@ Send a POST request to /register
 {
 	"username" : "test",
 	"password" : "password",
-    "email": "test@mytest.com"
+   	 "email": "test@mytest.com"
 }
 ```
 You ll get a Token as response.
