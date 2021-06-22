@@ -1,7 +1,7 @@
 ## Tiny Jwt
 
 Api for authentication , grant type is user and password. <br/>
-First edit the .env file to match your needs. <br/>
+First set the enviroment variables in the .env file to match your needs. <br/>
 Choose if you want to connect to db with HOST:PORT or connection string. <br/>
 
 To generate your secret use 
